@@ -13,7 +13,7 @@ The game starts in the player's room. Dark colors and rain outside the window ar
 When the player chooses VR glasses for the game, they will be transported to another world. At the beginning of his adventure, they will have the opportunity to interact with other NPCs and thus receive gameplay tips from them.
 
 *Figure 2. First meeting with Sabrina.*
-![alt text](https://github.com/Nausiz/Epidemic-Game/blob/main/Epidemid-Gamet/Img/Lobby2.png)
+![alt text](https://github.com/Nausiz/Epidemic-Game/blob/main/Epidemid-Game/Img/Lobby2.png)
 
 *Figure 3. Other NPCs.*
 ![alt text](https://github.com/Nausiz/Epidemic-Game/blob/main/Epidemid-Game/Img/Lobby3.png)
